@@ -1,0 +1,14 @@
+crop_0.jpg : 148.2 2020-1
+crop_1.jpg : 148.2 2021-1
+crop_2.jpg : 148.2 2020-2
+crop_3.jpg : 148.2 2020-8
+crop_4.jpg : No valid data found
+crop_5.jpg : 148.2 2020-13
+crop_6.jpg : 148.1 2021-1
+crop_7.jpg : No valid data found
+crop_8.jpg : 148.1 2023-1
+crop_9.jpg : 148.2 2020-1
+crop_10.jpg : 148.2 2020-15
+crop_11.jpg : No valid data found
+crop_12.jpg : 148.2 2020-9
+crop_13.jpg : No valid data found
